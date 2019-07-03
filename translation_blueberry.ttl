@@ -1,0 +1,144 @@
+
+<http://vocab.getty.edu/aat/300375417> <http://www.w3.org/2004/02/skos/core#scopeNote>
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/scope-note/4b53dfec-638a-4761-90d0-553d7b984017>;
+  <http://www.w3.org/ns/lemon/ontolex#lexicalizedSense> <https://resources.swissartresearch.net/terminology/concept/300375417/de> .
+
+<http://www.metaphacts.com/ontologies/platform#formContainer> <http://www.w3.org/ns/ldp#contains>
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de> .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de> a <http://www.w3.org/ns/ldp#Resource>,
+    <http://www.w3.org/ns/lemon/ontolex#LexicalEntry>, <http://www.w3.org/ns/prov#Entity>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "blueberry (fruit) [de]";
+  <http://www.w3.org/ns/lemon/ontolex#canonicalForm> <https://resources.swissartresearch.net/terminology/concept/300375417/de/form/71a4d195-8387-40f7-9b8b-1283e3815fb9>;
+  <http://www.w3.org/ns/lemon/ontolex#lexicalForm> <https://resources.swissartresearch.net/terminology/concept/300375417/de/form/69d28e78-60fe-450c-a146-bf8fd1dbef8f>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/form/7bce41fc-7d8c-4402-83c5-87088720df56>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/form/8f46fcca-0bee-4892-b000-5d34038f47a5>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2019-07-03T08:55:50.260Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.metaphacts.com/resource/user/administrator> .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/1f408037-6945-4f2e-9d77-1c04297bd5d8>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <http://vocab.getty.edu/aat/source/2000050940>;
+  <http://purl.org/ontology/bibo/locator> "23" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/28762b46-1336-4a7c-baac-fc0fb7422bbc>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <http://vocab.getty.edu/aat/source/2000048164>;
+  <http://purl.org/ontology/bibo/locator> "4" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/8225beaf-1e16-483d-8b02-63892f7f76b9>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <http://vocab.getty.edu/aat/source/2000048893>;
+  <http://purl.org/ontology/bibo/locator> "3" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/9dba07d3-7d87-483a-8e32-7f42bb67df90>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <https://resources.swissartresearch.net/terminology/concept/300375417/de/source/96cab675-4c3e-4ca1-b283-e4dede88ebe3>;
+  <http://purl.org/ontology/bibo/locator> "7777" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/bd2e1056-75e3-4fe5-aa05-a0f21e915029>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <http://vocab.getty.edu/aat/source/2000030861>;
+  <http://purl.org/ontology/bibo/locator> "345" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/dbfbe271-6a27-4b13-931c-ddd487d4cc1f>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <http://vocab.getty.edu/aat/source/2000045874>;
+  <http://purl.org/ontology/bibo/locator> "2" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/e5225fec-4941-4ef9-9def-e7277097dc65>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <https://resources.swissartresearch.net/terminology/concept/300375417/de/source/96cab675-4c3e-4ca1-b283-e4dede88ebe3>;
+  <http://purl.org/ontology/bibo/locator> "222" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/form/8f46fcca-0bee-4892-b000-5d34038f47a5>
+  a <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>, <http://www.w3.org/2008/05/skos-xl#Label>,
+    <http://www.w3.org/ns/lemon/ontolex#Form>;
+  <http://sari/ontology/contributor> <https://www.sari.uzh.ch>;
+  <http://sari/ontology/termContributor> <http://vocab.getty.edu/ontology#contributorNonPreferred>;
+  <http://sari/ontology/termProperty> <http://www.w3.org/2008/05/skos-xl#altLabel>;
+  <http://vocab.getty.edu/ontology#estEnd> "1800-12-31"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://vocab.getty.edu/ontology#estStart> "1500-01-02"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://vocab.getty.edu/ontology#historicFlag> <http://vocab.getty.edu/historic/currentAndHistoric>;
+  <http://vocab.getty.edu/ontology#sourcePreferred> <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/43674583-69d2-4b97-b84b-e104c43f020a>;
+  <http://vocab.getty.edu/ontology#termDisplay> <http://vocab.getty.edu/term/display/Indexing>;
+  <http://vocab.getty.edu/ontology#termFlag> <http://vocab.getty.edu/term/flag/Vernacular>;
+  <http://vocab.getty.edu/ontology#termKind> <http://vocab.getty.edu/term/kind/FullTerm>;
+  <http://vocab.getty.edu/ontology#termType> <http://vocab.getty.edu/term/type/UsedForTerm>;
+  <http://www.cidoc-crm.org/cidoc-crm/P73_has_language> <https://glottolog.org/resource/languoid/id/stan1295>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#gender> <http://www.lexinfo.net/ontology/2.0/lexinfo#feminine>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#number> <http://www.lexinfo.net/ontology/2.0/lexinfo#plural>;
+  <http://www.w3.org/ns/lemon/ontolex#writtenRep> "Beeren, Blau"@de-ch .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/f70ca78e-df37-47e1-95cf-3114d62e7e8c>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <https://resources.swissartresearch.net/terminology/concept/300375417/de/source/96cab675-4c3e-4ca1-b283-e4dede88ebe3>;
+  <http://purl.org/ontology/bibo/locator> "6666" .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/form/69d28e78-60fe-450c-a146-bf8fd1dbef8f>
+  a <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>, <http://www.w3.org/2008/05/skos-xl#Label>,
+    <http://www.w3.org/ns/lemon/ontolex#Form>;
+  <http://sari/ontology/contributor> <https://www.sari.uzh.ch>;
+  <http://sari/ontology/termContributor> <http://vocab.getty.edu/ontology#contributorNonPreferred>;
+  <http://sari/ontology/termProperty> <http://www.w3.org/2008/05/skos-xl#altLabel>;
+  <http://vocab.getty.edu/ontology#historicFlag> <http://vocab.getty.edu/historic/current>;
+  <http://vocab.getty.edu/ontology#qualifier> "Beere";
+  <http://vocab.getty.edu/ontology#sourcePreferred> <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/f70ca78e-df37-47e1-95cf-3114d62e7e8c>;
+  <http://vocab.getty.edu/ontology#termFlag> <http://vocab.getty.edu/term/flag/Vernacular>;
+  <http://vocab.getty.edu/ontology#termKind> <http://vocab.getty.edu/term/kind/CommonTerm>;
+  <http://vocab.getty.edu/ontology#termType> <http://vocab.getty.edu/term/type/UsedForTerm>;
+  <http://www.cidoc-crm.org/cidoc-crm/P73_has_language> <https://glottolog.org/resource/languoid/id/stan1295>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#gender> <http://www.lexinfo.net/ontology/2.0/lexinfo#feminine>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#number> <http://www.lexinfo.net/ontology/2.0/lexinfo#singular>;
+  <http://www.w3.org/ns/lemon/ontolex#writtenRep> "Heidelbeere"@de .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/form/71a4d195-8387-40f7-9b8b-1283e3815fb9>
+  a <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>, <http://www.w3.org/2008/05/skos-xl#Label>,
+    <http://www.w3.org/ns/lemon/ontolex#Form>;
+  <http://sari/ontology/contributor> <https://www.sari.uzh.ch>;
+  <http://sari/ontology/termContributor> <http://vocab.getty.edu/ontology#contributorPreferred>;
+  <http://sari/ontology/termProperty> <http://www.w3.org/2008/05/skos-xl#prefLabel>;
+  <http://vocab.getty.edu/ontology#estEnd> "2019-12-31"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://vocab.getty.edu/ontology#estStart> "1900-01-02"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://vocab.getty.edu/ontology#historicFlag> <http://vocab.getty.edu/historic/current>;
+  <http://vocab.getty.edu/ontology#qualifier> "Beere";
+  <http://vocab.getty.edu/ontology#sourcePreferred> <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/28762b46-1336-4a7c-baac-fc0fb7422bbc>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/8225beaf-1e16-483d-8b02-63892f7f76b9>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/dbfbe271-6a27-4b13-931c-ddd487d4cc1f>;
+  <http://vocab.getty.edu/ontology#termDisplay> <http://vocab.getty.edu/term/display/Display>;
+  <http://vocab.getty.edu/ontology#termFlag> <http://vocab.getty.edu/term/flag/Vernacular>;
+  <http://vocab.getty.edu/ontology#termKind> <http://vocab.getty.edu/term/kind/CommonTerm>;
+  <http://vocab.getty.edu/ontology#termType> <http://vocab.getty.edu/term/type/Descriptor>;
+  <http://www.cidoc-crm.org/cidoc-crm/P73_has_language> <https://glottolog.org/resource/languoid/id/stan1295>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#gender> <http://www.lexinfo.net/ontology/2.0/lexinfo#feminine>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#number> <http://www.lexinfo.net/ontology/2.0/lexinfo#singular>;
+  <http://www.w3.org/2000/01/rdf-schema#comment> "20th century";
+  <http://www.w3.org/ns/lemon/ontolex#writtenRep> "Blaubeere"@de .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/form/7bce41fc-7d8c-4402-83c5-87088720df56>
+  a <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>, <http://www.w3.org/2008/05/skos-xl#Label>,
+    <http://www.w3.org/ns/lemon/ontolex#Form>;
+  <http://sari/ontology/contributor> <https://www.sari.uzh.ch>;
+  <http://sari/ontology/termContributor> <http://vocab.getty.edu/ontology#contributorNonPreferred>;
+  <http://sari/ontology/termProperty> <http://www.w3.org/2008/05/skos-xl#altLabel>;
+  <http://vocab.getty.edu/ontology#historicFlag> <http://vocab.getty.edu/historic/current>;
+  <http://vocab.getty.edu/ontology#qualifier> "Beere";
+  <http://vocab.getty.edu/ontology#sourcePreferred> <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/1f408037-6945-4f2e-9d77-1c04297bd5d8>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/9dba07d3-7d87-483a-8e32-7f42bb67df90>;
+  <http://vocab.getty.edu/ontology#termType> <http://vocab.getty.edu/term/type/AlternateDescriptor>;
+  <http://www.cidoc-crm.org/cidoc-crm/P73_has_language> <https://glottolog.org/resource/languoid/id/stan1295>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#gender> <http://www.lexinfo.net/ontology/2.0/lexinfo#feminine>;
+  <http://www.lexinfo.net/ontology/2.0/lexinfo#number> <http://www.lexinfo.net/ontology/2.0/lexinfo#plural>;
+  <http://www.w3.org/ns/lemon/ontolex#writtenRep> "Blaubeeren"@de .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/scope-note/4b53dfec-638a-4761-90d0-553d7b984017>
+  a <http://vocab.getty.edu/ontology#ScopeNote>;
+  <http://purl.org/dc/terms/source> <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/bd2e1056-75e3-4fe5-aa05-a0f21e915029>,
+    <https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/e5225fec-4941-4ef9-9def-e7277097dc65>;
+  <http://sari/ontology/contributor> <https://www.sari.uzh.ch>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Frucht von mehreren Planzenarten aus der Gattung Vaccinium, spezifisch V. corymbosum in Nordamerika. Die dunkelblaue, süsse essbare Früchte sind in verschiedene US Staaten angebaut."@de .
+
+<https://resources.swissartresearch.net/terminology/concept/300375417/de/documentPart/43674583-69d2-4b97-b84b-e104c43f020a>
+  a <http://purl.org/ontology/bibo/DocumentPart>;
+  <http://purl.org/dc/terms/isPartOf> <https://resources.swissartresearch.net/terminology/concept/300375417/de/source/60c4a5a2-8905-4885-8e2b-ed6106d3e79a>;
+  <http://purl.org/ontology/bibo/locator> "133" .
